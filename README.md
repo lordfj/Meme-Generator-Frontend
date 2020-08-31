@@ -1,6 +1,7 @@
 # React-todo
 Meme Generator App (Pretty useless, but fun to build)
-React Fronted, Backend will be built with Laravel. 
+Frontend is built on React.
+Backend will be built with Laravel. 
 
 The backend will scrape the web for memes related to the search term.
 
