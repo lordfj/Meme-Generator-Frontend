@@ -56,11 +56,13 @@ a{
   width:auto;
   margin: 0 auto;
   display:block;
+  max-width:250px;
 }
 
 .meme .meme-img{
-  padding:1em;
-  background: #f4f4f4;
+  padding:1em auto;
+  background: #fff;
+  border: 3px solid #f4f4f4;
 }
 
 .meme .meme-text{
