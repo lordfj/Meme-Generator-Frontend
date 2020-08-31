@@ -11,4 +11,4 @@ The backend will scrape the web for memes related to the search term.
 - Currently the search works based on the category names. In updates, the search will work based on the tags (and maybe the meta data of the images too)
 
 # Live version
-You can view the live version here: 
+You can view the live version here: https://fola-meme-generator.herokuapp.com/
