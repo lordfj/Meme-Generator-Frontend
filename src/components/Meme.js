@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Triss from '../demo-images/triss.png';
 
 
 export class Meme extends Component {
@@ -14,7 +13,7 @@ export class Meme extends Component {
         return (
             <div className="meme">
                 <div className="meme-img">
-                    <img alt="" src={Triss} />
+                    <img alt="" src={this.props.meme.image_url} />
                 </div>
 
                 <div className="meme-text">
